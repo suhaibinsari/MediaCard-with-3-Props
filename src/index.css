@@ -14,7 +14,7 @@ code {
 
 
 h2{
-  text-align: center;
+
 }
 h2:hover{
 
@@ -25,19 +25,11 @@ font-size: 30px;
 
 }
 p{
-  text-align: center;
+  
 }
 p:hover{
 
   color: red;
   transition-property: 1s;
   font-size: 20px;
-}
-
-.center{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-
 }
