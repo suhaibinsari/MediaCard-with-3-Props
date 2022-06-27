@@ -1,11 +1,11 @@
 import React from 'react'
-import img from '../img/logo192.png'
-const Mediacard = ({ title, body, img, altText }) => {
+import image from '../img/im1.jpeg'
+const Mediacard = ({ title, body, imageURL, altText }) => {
   return (
     <div>
       <h2>{title}</h2>
       <p><strong>{body}</strong></p>
-      <img src={img} alt={altText}/>
+      <img src={image} alt={altText}/>
 
 
 

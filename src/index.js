@@ -12,6 +12,6 @@ ReactDOM.render(
     <MediaCard title="Suhaib Ansari" body={"My Picture"} imageURL={""} altText="Oops img not found" />
   </React.StrictMode>,
   document.getElementById('root')
-);
+)
 
 
